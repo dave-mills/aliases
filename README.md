@@ -22,10 +22,12 @@ The other steps depend on whether you use Command Prompt, or some form of bash (
 
 #### If you do not have a .bashrc file:
 2. Copy the .bashrc file from this repository and put it in your home folder.
+3. In Git Bash run `source .bashrc`
 
 #### If you do have a .bashrc file:
 3. Open `.bashrc` in your favourite text editor.
 4. Paste in the contents of the .bashrc file from this repository.
+5. In Git Bash run `source .bashrc`
 
 
 ## List of Aliases:
